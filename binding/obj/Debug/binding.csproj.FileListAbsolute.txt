@@ -1,0 +1,15 @@
+C:\Users\maidi\source\repos\Buoi07\binding\bin\Debug\binding.exe.config
+C:\Users\maidi\source\repos\Buoi07\binding\bin\Debug\binding.exe
+C:\Users\maidi\source\repos\Buoi07\binding\bin\Debug\binding.pdb
+C:\Users\maidi\source\repos\Buoi07\binding\obj\Debug\binding.csproj.AssemblyReference.cache
+C:\Users\maidi\source\repos\Buoi07\binding\obj\Debug\binding.Form1.resources
+C:\Users\maidi\source\repos\Buoi07\binding\obj\Debug\binding.Properties.Resources.resources
+C:\Users\maidi\source\repos\Buoi07\binding\obj\Debug\binding.csproj.GenerateResource.cache
+C:\Users\maidi\source\repos\Buoi07\binding\obj\Debug\binding.csproj.CoreCompileInputs.cache
+C:\Users\maidi\source\repos\Buoi07\binding\obj\Debug\binding.exe
+C:\Users\maidi\source\repos\Buoi07\binding\obj\Debug\binding.pdb
+C:\Users\maidi\source\repos\Buoi07\binding\bin\Debug\EntityFramework.dll
+C:\Users\maidi\source\repos\Buoi07\binding\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maidi\source\repos\Buoi07\binding\bin\Debug\EntityFramework.xml
+C:\Users\maidi\source\repos\Buoi07\binding\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maidi\source\repos\Buoi07\binding\obj\Debug\binding.csproj.Up2Date

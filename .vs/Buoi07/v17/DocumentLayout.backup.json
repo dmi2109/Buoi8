@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maidi\\source\\repos\\Buoi07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D72A85A6-0F8B-4793-9F0B-477319EF53BE}|binding\\binding.csproj|c:\\users\\maidi\\source\\repos\\buoi07\\binding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72A85A6-0F8B-4793-9F0B-477319EF53BE}|binding\\binding.csproj|solutionrelative:binding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72A85A6-0F8B-4793-9F0B-477319EF53BE}|binding\\binding.csproj|C:\\Users\\maidi\\source\\repos\\Buoi07\\binding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72A85A6-0F8B-4793-9F0B-477319EF53BE}|binding\\binding.csproj|solutionrelative:binding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72A85A6-0F8B-4793-9F0B-477319EF53BE}|binding\\binding.csproj|c:\\users\\maidi\\source\\repos\\buoi07\\binding\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72A85A6-0F8B-4793-9F0B-477319EF53BE}|binding\\binding.csproj|solutionrelative:binding\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72A85A6-0F8B-4793-9F0B-477319EF53BE}|binding\\binding.csproj|C:\\Users\\maidi\\source\\repos\\Buoi07\\binding\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72A85A6-0F8B-4793-9F0B-477319EF53BE}|binding\\binding.csproj|solutionrelative:binding\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72A85A6-0F8B-4793-9F0B-477319EF53BE}|binding\\binding.csproj|C:\\Users\\maidi\\source\\repos\\Buoi07\\binding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72A85A6-0F8B-4793-9F0B-477319EF53BE}|binding\\binding.csproj|solutionrelative:binding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\maidi\\source\\repos\\Buoi07\\binding\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "binding\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\maidi\\source\\repos\\Buoi07\\binding\\Models\\Students.cs",
+              "RelativeToolTip": "binding\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:04:10.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\maidi\\source\\repos\\Buoi07\\binding\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "binding\\Models\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\maidi\\source\\repos\\Buoi07\\binding\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "binding\\Models\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:46:00.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maidi\\source\\repos\\Buoi07\\binding\\Program.cs",
+              "RelativeDocumentMoniker": "binding\\Program.cs",
+              "ToolTip": "C:\\Users\\maidi\\source\\repos\\Buoi07\\binding\\Program.cs",
+              "RelativeToolTip": "binding\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:37:49.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\maidi\\source\\repos\\Buoi07\\binding\\Form1.cs",
+              "RelativeDocumentMoniker": "binding\\Form1.cs",
+              "ToolTip": "C:\\Users\\maidi\\source\\repos\\Buoi07\\binding\\Form1.cs*",
+              "RelativeToolTip": "binding\\Form1.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:35:20.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maidi\\source\\repos\\Buoi07\\binding\\Form1.cs",
+              "RelativeDocumentMoniker": "binding\\Form1.cs",
+              "ToolTip": "C:\\Users\\maidi\\source\\repos\\Buoi07\\binding\\Form1.cs [Design]*",
+              "RelativeToolTip": "binding\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:34:22.251Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
